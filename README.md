@@ -5,6 +5,6 @@ Chinese simplized and traditionalized.
 
 ```js
 let jiantifanti = require('jiantifanti');
-jiantifanti.simplized('這'); //这
-jiantifanti.traditionalized('这'); //這
+jiantifanti.simplized('這個'); //这个
+jiantifanti.traditionalized('这个'); //這個
 ```
